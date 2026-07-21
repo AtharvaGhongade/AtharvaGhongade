@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔧 DevOps Enthusiast with hands-on production experience on **Microsoft Azure** — IaaS/PaaS architecture, Terraform IaC, and CI/CD automation
+- 🔧 DevOps Engineer with hands-on production experience on **Microsoft Azure** — IaaS/PaaS architecture, Terraform IaC, and CI/CD automation
 - 📉 Delivered a **93% reduction in infrastructure deployment time** (3 hours → 20 minutes) via Terraform automation during my internship at Coditas Solutions LLP
 - 🛡️ Building **DevBoard**, a 9-stage DevSecOps CI/CD pipeline (SAST, DAST, secret scanning, container scanning) — currently in progress
 - 🏃 Off the keyboard: marathon runner (Pune Marathon 5K)
